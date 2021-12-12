@@ -20,4 +20,4 @@ You can see my blog [here](https://dev.to/berviantoleo/monitor-digitalocean-mana
 ## LICENSE
 
 * Code - ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
-* Article/Content - [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/
+* Article/Content - [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
